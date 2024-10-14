@@ -5,7 +5,7 @@
 
 👋 Hello, I'm [chan]!
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with experience in Java, Spring, and web technologies.
+Welcome to my GitHub profile! I'm a passionate backend developer with experience in Java, Spring, and web technologies.
 
 🚀 My Tech Stack
 
