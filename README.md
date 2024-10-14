@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ACD7F7&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+%5Bchan%5D!;Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 
 👋 Hello, I'm [chan]!
+
 Welcome to my GitHub I'm a passionate backend developer with experience in Java, Spring, and web technologies.
 
 🚀 My Tech Stack
