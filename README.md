@@ -23,10 +23,7 @@ I'm currently working on integrating AI models into backend systems and optimizi
 
 Always exploring new technologies and growing my expertise in full-stack development.
 
-📫 Let's Connect!
+##📫 Let's Connect!
 
-LinkedIn
 
-Email
 
-Feel free to reach out for collaborations, or just to say hi!
