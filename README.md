@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text](https://readme-typing-svg.demolab.com/demo/?color=ACD7F7&lines=%F0%9F%91%8B+Hello%2C+I'm+%5Bchan%5D!;Welcome+to+my+GitHub))](https://git.io/typing-svg)
 
 👋 Hello, I'm [chan]!
 
-Welcome to my GitHub profile! I'm a passionate backend developer with experience in Java, Spring, and web technologies.
+Welcome to my GitHub I'm a passionate backend developer with experience in Java, Spring, and web technologies.
 
 🚀 My Tech Stack
 
