@@ -28,3 +28,4 @@ Always exploring new technologies and growing my expertise in full-stack develop
 
 
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckstj8027)](https://solved.ac/ckstj8027)
